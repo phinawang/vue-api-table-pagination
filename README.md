@@ -1,2 +1,2 @@
-# vue-api-table-pagination
+# cs-vue
 Created with CodeSandbox
